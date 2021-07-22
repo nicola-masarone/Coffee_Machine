@@ -1,0 +1,25 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        val color = readLine()!!
+        // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6254#comment
+status: Solved
+feedback:
+  message: |-
+    <html>[+] Test #1. OK
+    [+] Test #2. OK
+    [+] Test #3. OK
+    [+] Test #4. OK
+    [+] Test #5. OK
+    [+] Test #6. OK
+    [+] Test #7. OK
+
+    7 of 7 test(s) passed.</html>
+  time: Wed, 21 Jul 2021 14:55:25 UTC
+record: -1

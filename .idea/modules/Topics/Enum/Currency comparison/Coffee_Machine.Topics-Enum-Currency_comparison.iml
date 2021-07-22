@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Enum-Currency_comparison" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Enum/Currency comparison" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Coffee_Machine" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Enum/Currency comparison">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Enum/Currency comparison/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Enum/Currency comparison/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Enum/Currency comparison/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

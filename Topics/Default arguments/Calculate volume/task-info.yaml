@@ -1,0 +1,15 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun getVolume(...){
+        //TODO
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4708#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 20 Jul 2021 16:39:32 UTC
+record: -1

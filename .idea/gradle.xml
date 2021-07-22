@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Coffee Machine/task" />
+            <option value="$PROJECT_DIR$/Topics/Companion object/Board game basics  Player" />
+            <option value="$PROJECT_DIR$/Topics/Companion object/Companion" />
+            <option value="$PROJECT_DIR$/Topics/Companion object/Fix an error" />
+            <option value="$PROJECT_DIR$/Topics/Companion object/Fix me" />
+            <option value="$PROJECT_DIR$/Topics/Companion object/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Bank account" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Init usage" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Pets" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Point2D" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Reddit" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Calculate volume" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Concatenate 3 strings with separator" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Gratuity" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Polynomial" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Print Username" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Summation" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Enum/Currencies" />
+            <option value="$PROJECT_DIR$/Topics/Enum/Currency comparison" />
+            <option value="$PROJECT_DIR$/Topics/Enum/Rainbow colors" />
+            <option value="$PROJECT_DIR$/Topics/Enum/The rainbow order" />
+            <option value="$PROJECT_DIR$/Topics/Enum/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Application as a class" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Car" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Patient needs a doctor" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Volume of a cube" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Car price" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Car speed" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Deposit" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Greeting" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Perimeter" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/URL" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Blocks in a box" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Board game basics  Game" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Cell" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Library" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Manager" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Properties accessors/City population" />
+            <option value="$PROJECT_DIR$/Topics/Properties accessors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Properties accessors/Weather comparison" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+type: code
+custom_name: 'Board game basics: Player'
+files:
+- name: src/Main.kt
+  visible: true
+  text: 'class Player(val id: Int, val name: String, val hp: Int)'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10711#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 21 Jul 2021 13:52:30 UTC
+record: -1

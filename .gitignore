@@ -1,0 +1,28 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Coffee Machine/task/out/test/classes/
+/Topics/Constructors/Init usage/out/
+/Topics/Constructors/Init usage/out/production/classes/
+/Topics/Default arguments/Concatenate 3 strings with separator/out/
+/Topics/Default arguments/Concatenate 3 strings with separator/out/production/classes/
+/Topics/Default arguments/Print Username/out/
+/Topics/Default arguments/Print Username/out/production/classes/
+/Topics/Enum/Currency comparison/out/
+/Topics/Enum/Currency comparison/out/production/classes/
+/Topics/Enum/Rainbow colors/out/
+/Topics/Enum/Rainbow colors/out/production/classes/
+/Topics/Enum/The rainbow order/out/
+/Topics/Enum/The rainbow order/out/production/classes/
+/Topics/Named arguments/Car price/out/
+/Topics/Named arguments/Car price/out/production/classes/
+/Topics/Named arguments/Car speed/out/
+/Topics/Named arguments/Car speed/out/production/classes/
+/Topics/Named arguments/Deposit/out/
+/Topics/Named arguments/Deposit/out/production/classes/
+/Topics/Named arguments/Perimeter/out/
+/Topics/Named arguments/Perimeter/out/production/classes/
+/Topics/Properties accessors/Weather comparison/out/
+/Topics/Properties accessors/Weather comparison/out/production/classes/
