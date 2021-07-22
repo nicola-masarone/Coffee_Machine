@@ -5,4 +5,4 @@ What can be better than a cup of coffee during a break? A coffee that you don’
 ## Learning outcomes
 This project allows you to get a taste of Kotlin. Practice working with functions, challenge yourself with loops and conditions, and get more confident in Kotlin.
 ## This project is a part of the following track
-Kotlin Developer 
+[Kotlin Developer](https://hyperskill.org/tracks/3)
